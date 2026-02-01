@@ -2,7 +2,9 @@
 
 **Hybrid RAG approach combining AsciiDoc metadata with Docling HTML conversion.**
 
-This project uses [Quarkus Docling](https://docs.quarkiverse.io/quarkus-docling/dev/index.html) to build a RAG (Retrieval-Augmented Generation) system for Quarkus documentation, producing a pgvector Docker image compatible with the chappie-server implementation.
+This project uses [Quarkus Docling](https://docs.quarkiverse.io/quarkus-docling/dev/index.html) 
+to build a RAG (Retrieval-Augmented Generation) system for Quarkus documentation, 
+producing a pgvector Docker image compatible with the chappie-server implementation.
 
 ## Hybrid Approach
 
